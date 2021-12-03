@@ -1,0 +1,13 @@
+a. Suatu method wajib mengembalikan nilai (return value) ke pemanggilnya.
+b. Suatu method wajib meminta parameter dari pemanggilnya.
+c. Suatu method wajib memiliki parameter dan return value dengan tipe data yang sama
+d. Suatu method dapat memiliki lebih dari satu parameter
+e. Suatu method dapat memiliki lebih dari satu return value
+
+JAWABAN
+
+a. Salah, karena suatu method tidak harus mengembalikan nilai ke pemanggilnya.
+b. Salah, Karena suatu method tidak harus meminta parameter dari pemanggilnya.
+c. Salah, Karena method tidak bersifat homogen.
+d. Benar, karena di dalam aturan java boleh menggunakan lebih dari satu parameter pada suatu method.
+e. Salah, Karena method yang memiliki lebih dari satu return value akan mengalami error.
